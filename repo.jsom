@@ -4,6 +4,6 @@
   "description": "NetMirror streaming extension for SkyStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/yourname/netmirror-repo/main/plugins.json"
+    "https://raw.githubusercontent.com/rheno911/netmirror-repo/main/plugins.json"
   ]
 }
