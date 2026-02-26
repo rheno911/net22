@@ -1,0 +1,9 @@
+{
+  "name": "NetMirror Repository",
+  "id": "com.sushan64.netmirror.repo",
+  "description": "NetMirror streaming extension for SkyStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/yourname/netmirror-repo/main/plugins.json"
+  ]
+}
