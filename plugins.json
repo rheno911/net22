@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NetMirror",
+    "internalName": "NetMirror",
+    "url": "https://raw.githubusercontent.com/yourname/netmirror-repo/main/NetMirror.sky",
+    "icon": "https://raw.githubusercontent.com/yourname/netmirror-repo/main/icon.png",
+    "version": 1,
+    "description": "Stream Netflix, Disney+, Prime Video, Hotstar, SonyLiv via NetMirror",
+    "authors": ["Sushan64"],
+    "language": "en",
+    "types": ["Movies", "TV"]
+  }
+]
